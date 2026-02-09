@@ -1,0 +1,2 @@
+﻿https://medium.com/@ramon_12434/icon-banks-for-winforms-30e0191ae
+https://www.nuget.org/packages/Rop.Winforms.Icons
