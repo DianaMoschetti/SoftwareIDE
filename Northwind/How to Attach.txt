@@ -1,0 +1,1 @@
+https://learningsqlserver.wordpress.com/2011/02/13/how-can-i-open-mdf-and-ldf-files-in-sql-server-attach-tutorial-troublshooting/
